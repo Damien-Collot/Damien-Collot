@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damien-Collot
-- 👀 I’m interested in BackEnd development 
-- 🌱 I’m currently in engineering studies at INSA
+- 👀 I’m interested in Fullstack development mainly Spring Boot / React Js
+- 🌱 I’m a computer science engineer
 - 📫 dcollot76@gmail.com
 
 <!---
